@@ -1,0 +1,3 @@
+rootProject.name = 'trinijam_radio_2991'
+
+include ':app'
